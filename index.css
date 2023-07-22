@@ -6,11 +6,11 @@
 header{
     margin-top: 0px;
     text-align: center;
-    background-image: url("Pictures/Future Seeing(Dark).jpeg");
+    background-image: url("Future Seeing(Dark).jpeg");
     width: 100%;
     height: 30px;
-    color: black;
-    background-color: white;
+    color: white;
+    background-color: black;
     display: flex;
     font-size: 20px;
 }
@@ -19,19 +19,19 @@ section.Title{
     margin-top: 60px;
     text-align: center;
     font-size: 100px;
-    background-color: black;
-    color:white;
+    background-color: white;
+    color:black;
 }
 
 section.News{
     text-align: right;
-    background-color: black;
-    color:white;
+    background-color: white;
+    color:black;
 }
 section.HyperLinks{
     text-align: center;
-    background-image: url("Pictures/Future Seeing(Light).jpeg");
-    background-color: black;
+    background-image: url("Future Seeing(Light).jpeg");
+    background-color: white;
     background-size: cover;
 }
 
@@ -41,10 +41,10 @@ h1.bigger{
 
 footer{
     text-align: center;
-    background-image: url("Pictures/Future Seeing(Dark).jpeg");
+    background-image: url("Future Seeing(Dark).jpeg");
     background-size: cover;
     width: 100%;
     height: 50px;
-    color: black;
-    background-color: white;
+    color: white;
+    background-color: black;
 }
