@@ -6,7 +6,7 @@
 header{
     margin-top: 0px;
     text-align: center;
-    background-image: url("FutureSeeing(Dark).jpeg");
+    background-image: url("FutureSeeing\(Dark\).jpeg");
     width: 100%;
     height: 30px;
     color: white;
@@ -30,7 +30,7 @@ section.News{
 }
 section.HyperLinks{
     text-align: center;
-    background-image: url("FutureSeeing(Light).jpeg");
+    background-image: url("FutureSeeing\(Light\).jpeg");
     background-color: white;
     background-size: cover;
 }
